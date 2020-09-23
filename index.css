@@ -1,0 +1,12 @@
+.form-input {
+  margin-top: 20%;
+  margin-left: 25%;
+  background-color: #333;
+  max-width: 50%;
+  justify-content: center;
+  padding: 10px;
+}
+
+label {
+  color: #fff;
+}
